@@ -13,7 +13,29 @@
 
 <a href="https://docs.google.com/spreadsheets/d/1G6lTh8nCZ66TSfVdgbOr0ogLrji3ZkMbRo8QBP4V1n8/edit?usp=sharing">_Общий документ по выполненому заданию_</a> 
 *  Подготовил чек-листна вёрстку полей (форма бронирования и элементы на навигационной карте: это иконки автомобилей и действия с ними) в 2-х окружениях Firefox 800x600 и Яндекс.Браузер 1920x1080
+  	<details>
+  	       <summary>Фрагмент чек-листа</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web_Plus/blob/main/chelist.png)
+
+  	</details>
 * Подготовил чек-лист на логику окон «Способ оплаты» и «Добавление карты» и тест-кейсы на кнопку «Забронировать»
+ 	<details>
+  	       <summary>Фрагмент чек-листа логики</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web_Plus/blob/main/chelist2.png)
+              
+  	</details>
 * Подготовил  тест-кейсы на кнопку «Забронировать»
-* Зафиксировал найденные баги в таблице для баг трекинга 
+ 	<details>
+  	       <summary>Фрагмент тест-кейса</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web_Plus/blob/main/chelist3.png)
+  	</details>
+* Зафиксировал найденные баги в таблице для баг трекинга
+ 	<details>
+  	       <summary>Фрагмент баг репорта</summary>
+              
+	![Описание изображения](https://github.com/Art8m1s/QA-YA-Rout-Web_Plus/blob/main/bugrep.png)
+  	</details>
        
